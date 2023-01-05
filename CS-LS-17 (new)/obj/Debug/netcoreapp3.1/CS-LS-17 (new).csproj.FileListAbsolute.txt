@@ -1,0 +1,16 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\bin\Debug\netcoreapp3.1\CS-LS-17 (new).pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS_LS_17__new_.Form1.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).csproj.GenerateResource.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-17 (new)\obj\Debug\netcoreapp3.1\CS-LS-17 (new).genruntimeconfig.cache

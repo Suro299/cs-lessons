@@ -1,0 +1,16 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\bin\Debug\netcoreapp3.1\CS-LS-20.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS_LS_20.Form1.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.csproj.GenerateResource.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-20\obj\Debug\netcoreapp3.1\CS-LS-20.genruntimeconfig.cache

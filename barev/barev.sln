@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barev", "barev.csproj", "{11CB9B51-33CE-4F55-963D-FFA288949AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CB9B51-33CE-4F55-963D-FFA288949AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CB9B51-33CE-4F55-963D-FFA288949AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CB9B51-33CE-4F55-963D-FFA288949AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CB9B51-33CE-4F55-963D-FFA288949AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B07F755-94BC-41AE-97CE-AF42415C1236}
+	EndGlobalSection
+EndGlobal

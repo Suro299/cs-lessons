@@ -1,0 +1,16 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS_LS_18__HW_.Form1.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).csproj.GenerateResource.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\bin\Debug\netcoreapp3.1\CS-LS-18 (HW).pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-18 (HW)\obj\Debug\netcoreapp3.1\CS-LS-18 (HW).genruntimeconfig.cache

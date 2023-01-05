@@ -1,0 +1,14 @@
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.csproj.AssemblyReference.cache
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.AssemblyInfoInputs.cache
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.AssemblyInfo.cs
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.csproj.CoreCompileInputs.cache
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.exe
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.deps.json
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.runtimeconfig.json
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.runtimeconfig.dev.json
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.dll
+C:\Users\suren\source\repos\CS-LS-10\bin\Debug\netcoreapp3.1\CS-LS-10.pdb
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.dll
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.pdb
+C:\Users\suren\source\repos\CS-LS-10\obj\Debug\netcoreapp3.1\CS-LS-10.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\bin\Debug\netcoreapp3.1\CS-LS-2.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-2\obj\Debug\netcoreapp3.1\CS-LS-2.genruntimeconfig.cache

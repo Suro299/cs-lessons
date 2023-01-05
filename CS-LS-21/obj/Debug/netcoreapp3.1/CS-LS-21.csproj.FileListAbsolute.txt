@@ -1,0 +1,16 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\bin\Debug\netcoreapp3.1\CS-LS-21.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS_LS_21.Form1.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.csproj.GenerateResource.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-21\obj\Debug\netcoreapp3.1\CS-LS-21.genruntimeconfig.cache

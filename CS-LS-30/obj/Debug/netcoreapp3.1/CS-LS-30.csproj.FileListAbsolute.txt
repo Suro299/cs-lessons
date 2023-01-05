@@ -1,0 +1,17 @@
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.exe
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.deps.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.runtimeconfig.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.runtimeconfig.dev.json
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\bin\Debug\netcoreapp3.1\CS-LS-30.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.csproj.AssemblyReference.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS_LS_30.Form1.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS_LS_30.Properties.Resources.resources
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.csproj.GenerateResource.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.AssemblyInfoInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.AssemblyInfo.cs
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.csproj.CoreCompileInputs.cache
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.dll
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.pdb
+C:\Users\suren\OneDrive\Рабочий стол\Think\C#\CS-LS-30\obj\Debug\netcoreapp3.1\CS-LS-30.genruntimeconfig.cache
